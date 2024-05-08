@@ -17,8 +17,9 @@ public class Revenue {
     @Id
     @GeneratedValue
     private int id;
+    private String companyName;
     private double  totalRevenue;
-    private double  monthlyRevenue;
+    private String date;
     private double profit;
     private double profitPercentage;
 

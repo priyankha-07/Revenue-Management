@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+  <employee>
+    <id>4</id>
+    <name>scott</name>
+    <roles>software engineer</roles>
+    <sal>300000.0</sal>
+    <doj>03-04-2024</doj>
+  </employee>
+  <employee>
+    <id>5</id>
+    <name>shiny</name>
+    <roles>software engineer</roles>
+    <sal>300000.0</sal>
+    <doj>04 feb 2024</doj>
+  </employee>
+</employees>
